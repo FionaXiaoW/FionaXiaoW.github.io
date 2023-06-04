@@ -6,7 +6,7 @@ author_profile: true
 permalink: /publications/
 ---
 
-<!-- You can also find my papers on <u><a href="https://scholar.google.com/citations?user=zKPWrEAAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u> -->
+<!-- You can also find my papers on <u><a href="https://scholar.google.com/citations?user=SMuF74EwRLQC&hl=en">my Google Scholar profile</a>.</u> -->
 
 <h1 style="margin-bottom:0px;padding-top:20px;">2023</h1>
 
@@ -25,7 +25,7 @@ permalink: /publications/
   <!-- Item: trec22 -->
   <li >
   <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Experiments with Adaptive ReRanking and ColBERT-PRF: University of Glasgow Terrier Team at TREC DL 2022.&rdquo; TREC 2022.
-    
+  <a href="https://trec.nist.gov/pubs/trec31/papers/UoGTr.D.pdf">[PDF]</a>
     
     
 <h1 style="margin-bottom:0px;padding-top:20px;">2022</h1>
