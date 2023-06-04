@@ -40,7 +40,7 @@ Education
 
 Activities
 ------
-- [Feburay 2023] <code style="color : darkorange">Barclays Bank ‑ Poster Presentation (In‑person)</code> 
+- [Feburay 2023] <code style="color : darkorange"> Barclays Bank ‑ Poster Presentation (In‑person) </code> 
   *Pseudo‑Relevance Feedback for Multiple Representation Dense Retrieval*
 
 - [December 2022] TREC 2022 Deep Learning Track - Oral Presentation (Online Talk during Pandemic) *Experiments with Adaptive ReRanking and ColBERT‑PRF: University of Glasgow Terrier Team at
