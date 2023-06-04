@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaxiong Wu (Yashon)"
+title                    : "Xiao Wang (Maggie)"
 title_separator          : "-"
-name                     : &name "Yaxiong Wu"
+name                     : &name "Xiao Wang"
 description              : &description "personal description"
-url                      : https://yashonwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MaggieXiaoW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yashonwu/yashonwu.github.io"
+repository               : "MaggieXiaoW/MaggieXiaoW.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yaxiong Wu"
+  name             : "Xiao Wang"
   avatar           : "profile.png"
   bio              : "PhD Candidate at UofG"
   location         : "Glasgow, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zKPWrEAAAAAJ&hl=en&oi=ao"
-  email            : "y.wu.4@research.gla.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=SMuF74EwRLQC&hl=en"
+  email            : "x.wang.8@research.gla.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yashonwu"
+  github           : "Xiao0728"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yashonwu"
+  twitter          : "_XiaoWang_"
   vine             :
   weibo            :
   xing             :
