@@ -22,6 +22,14 @@ My recent research interest is mainly about **Information Retrieval**, **Deep Le
 
 [30/06/2020] 'A Hybrid Conditional Variational Autoencoder Model for Personalised Top-N Recommendation' - full paper accepted at [ICTIR 2020](https://ictir2020.org/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh). -->
 
+Activities
+------
+[Feburay 2023] Barclays Bank ‑ Poster Presentation (In‑person) *Pseudo‑Relevance Feedback for Multiple Representation Dense Retrieval*
+
+[December 2022] TREC 2022 Deep Learning Track - Oral Presentation (Online Talk during Pandemic) *Experiments with Adaptive ReRanking and ColBERT‑PRF: University of Glasgow Terrier Team at
+TREC DL 2022 *
+
+
 Education
 ------
 [2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
