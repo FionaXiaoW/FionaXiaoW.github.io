@@ -24,10 +24,29 @@ My recent research interest is mainly about **Information Retrieval**, **Deep Le
 
 Activities
 ------
-[Feburay 2023] Barclays Bank ‑ Poster Presentation (In‑person) *Pseudo‑Relevance Feedback for Multiple Representation Dense Retrieval*
+- [Feburay 2023] Barclays Bank ‑ Poster Presentation (In‑person) *Pseudo‑Relevance Feedback for Multiple Representation Dense Retrieval*
 
-[December 2022] TREC 2022 Deep Learning Track - Oral Presentation (Online Talk during Pandemic) *Experiments with Adaptive ReRanking and ColBERT‑PRF: University of Glasgow Terrier Team at
+- [December 2022] TREC 2022 Deep Learning Track - Oral Presentation (Online Talk during Pandemic) *Experiments with Adaptive ReRanking and ColBERT‑PRF: University of Glasgow Terrier Team at
 TREC DL 2022 *
+
+
+- [July 2022] SIGIR 2022 ‑ Full Paper presentation (In-person) *Inspection of the Reproducibility and Replicability of TCT‑ColBERT*
+
+- [May 2022] Invited Seminar Talk (Online Talk during Pandemic)  *ColBERT-PRF: Semantic Pseudo-Relevance Feedback for Dense Passage and Document Retrieval*
+
+- [April 2022] Invited Seminar Talk (Online Talk during Pandemic) *Pseudo-Relevance Feedback in the Era of Dense Retrieval*
+
+- [March 2022] Invited Seminar Talk (Online Talk during Pandemic) *Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval* 
+
+- [March 2022] University of Glasgow - Poster Contest (1st Prize) *Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval*
+
+- [December 2021] TREC 2021 Deep Learning Track - Oral Presentation (Online Talk during Pandemic) *University of Glasgow Terrier Team at TREC 2021 Deep Learning Track*
+
+- [May 2021] ICTIR 2021 - Full Paper Presentation - (Online Talk during Pandemic) *Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval*
+
+- [December 2020] TREC 2020 Deep Learning Track - Oral Presentation (Online Talk during Pandemic) *University of Glasgow Terrier Team at TREC 2020 Deep Learning Track* 
+
+- [May 2020] SIGIR DRL4IR Workshop 2019 - Full Paper Presentation (Online Talk during Pandemic) *Deep Reinforced Query Reformulation for Information Retrieval*
 
 
 Education
