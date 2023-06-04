@@ -12,7 +12,7 @@ I am currently a 4th-year PhD student at the [Terrier Team](http://terrierteam.d
 My recent research interest is mainly about **Information Retrieval**, **Deep Leaning** and **Natural Language Processing**.
 
 
-News
+<!-- News
 ------
 [28/06/2022] 'Multi-Modal Dialog State Tracking for Interactive Fashion Recommendation' - full paper accepted at [RecSys 2022](https://recsys.acm.org/recsys22/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
 
@@ -20,7 +20,7 @@ News
 
 [07/07/2021] 'Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation' - full paper accepted at [RecSys 2021](https://recsys.acm.org/recsys21/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
 
-[30/06/2020] 'A Hybrid Conditional Variational Autoencoder Model for Personalised Top-N Recommendation' - full paper accepted at [ICTIR 2020](https://ictir2020.org/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
+[30/06/2020] 'A Hybrid Conditional Variational Autoencoder Model for Personalised Top-N Recommendation' - full paper accepted at [ICTIR 2020](https://ictir2020.org/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh). -->
 
 Education
 ------
