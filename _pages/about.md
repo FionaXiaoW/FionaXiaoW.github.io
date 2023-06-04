@@ -11,6 +11,22 @@ redirect_from:
 I am currently a 4th-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
 My recent research interest is mainly about **Information Retrieval**, **Deep Leaning** and **Natural Language Processing**.
 
+Education
+------
+[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
+- PhD in Computing Science (Research), expected to graduate before 09/2023
+
+[2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
+- MSc in Data Science
+
+<!-- [2013-2016] [Beijing University of Chemical Technology](https://ev.buaa.edu.cn/) (BUAA, [Project 211](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
+- Master of Engineering in Aerospace Science and Technology
+- Excellent Master’s Degree Dissertation, supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en))
+
+[2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU, [Project 211](https://en.wikipedia.org/wiki/Project_211)), Harbin, China
+- Bachelor of Engineering in Flight Vehicle Propulsion Engineering
+- Bachelor of Management in Business Administration (minor) -->
+
 
 <!-- News
 ------
@@ -49,21 +65,7 @@ TREC DL 2022 *
 - [May 2020] SIGIR DRL4IR Workshop 2019 - Full Paper Presentation (Online Talk during Pandemic) *Deep Reinforced Query Reformulation for Information Retrieval*
 
 
-Education
-------
-[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
-- PhD in Computing Science (Research), expected to graduate before 09/2023
 
-[2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
-- MSc in Data Science
-
-<!-- [2013-2016] [Beijing University of Chemical Technology](https://ev.buaa.edu.cn/) (BUAA, [Project 211](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
-- Master of Engineering in Aerospace Science and Technology
-- Excellent Master’s Degree Dissertation, supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en))
-
-[2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU, [Project 211](https://en.wikipedia.org/wiki/Project_211)), Harbin, China
-- Bachelor of Engineering in Flight Vehicle Propulsion Engineering
-- Bachelor of Management in Business Administration (minor) -->
 
 <!-- Activities
 ------
