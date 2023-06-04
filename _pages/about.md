@@ -8,17 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Dr [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
-My recent research interest is mainly about **Multi-Modal Conversational Information Seeking (MMCIS)**. In particular, I mainly focus on three things:
-- **multi-modality**: vision-language pre-training/understanding/reasoning,
-- **dialog management**: specialising conversational information seeking with reinforcement learning,
-- **simulation**: imitating the users' feedback for training and evaluating the MMCIS models.
+I am currently a 4th-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
+My recent research interest is mainly about **Information Retrieval**, **Deep Leaning** and **Natural Language Processing**.
 
-<!-- - **multi-modal**: adopting encoders for extracting the multimodal feature representations from both the system's recommendations and the users' feedback,
-- **dialog management**: specialising state trackers for tracking/estimating the users' preferences over time and dialog/recommendation policies with reinforcement learning,
-- **user simulator**: developing the simulation techniques for imitating the users' feedback for the purpose of training and evaluation. -->
-
-My study is funded by the [Closed Loop Data Science Project](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/) ([EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R018634/1) funded) and the [Computing Science Excellence Bursary](https://www.gla.ac.uk/scholarships/schoolofcomputingscienceinternationalexcellenceawards/).
 
 News
 ------
@@ -36,19 +28,19 @@ Education
 - PhD in Computing Science (Research), expected to graduate before 09/2023
 
 [2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
-- MSc in Data Science, Graduation with Distinction
+- MSc in Data Science
 
-[2013-2016] [Beihang University](https://ev.buaa.edu.cn/) (BUAA, [Project 985](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
+<!-- [2013-2016] [Beijing University of Chemical Technology](https://ev.buaa.edu.cn/) (BUAA, [Project 211](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
 - Master of Engineering in Aerospace Science and Technology
 - Excellent Master’s Degree Dissertation, supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en))
 
 [2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU, [Project 211](https://en.wikipedia.org/wiki/Project_211)), Harbin, China
 - Bachelor of Engineering in Flight Vehicle Propulsion Engineering
-- Bachelor of Management in Business Administration (minor)
+- Bachelor of Management in Business Administration (minor) -->
 
 Activities
 ------
-- Lab Demonstrator for Information Retrieval in 2020 and Recommender System in 2020 & 2021, at UofG.
+- Lab Demonstrator for Information Retrieval in 2020 and Text as Data in 2020 & 2021, at UofG.
 
 Useful Links
 ------
