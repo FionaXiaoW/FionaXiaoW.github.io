@@ -8,37 +8,77 @@ permalink: /publications/
 
 <!-- You can also find my papers on <u><a href="https://scholar.google.com/citations?user=zKPWrEAAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u> -->
 
+<h1 style="margin-bottom:0px;padding-top:20px;">2023</h1>
+
+  <!-- Item: cwprf-->
+  <li >
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Effective Contrastive Weighting for Dense Query Expansion.&rdquo; ACL - Main Conference, 2023. 
+
+  <!-- Item: colstar -->
+  <li >
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*.&rdquo; SIGIR 2023. 
+
+  <!-- Item: tweb -->
+  <li >
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; ColBERT-PRF: Semantic pseudo-relevance feedback for dense passage and document retrieval.&rdquo; ACM Transactions on the Web. 
+
+  <!-- Item: trec22 -->
+  <li >
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Experiments with Adaptive ReRanking and ColBERT-PRF: University of Glasgow Terrier Team at TREC DL 2022.&rdquo; TREC 2022.
+    
+    
+    
 <h1 style="margin-bottom:0px;padding-top:20px;">2022</h1>
-
-  <!-- Item: wu2022multimodal -->
-  <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multi-Modal Dialog State Tracking for Interactive Fashion Recommendation.&rdquo; RecSys 2022. (Accepted)
-
-  <!-- Item: wu2022negative -->
-  <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022. (Accepted)
-
-
-<h1 style="margin-bottom:0px;padding-top:20px;">2021</h1>
 <!--   <ul class="biblist"> -->
 
-  <!-- Item: wu2021partially -->
+  <!-- Item: ipm -->
   <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation.&rdquo; RecSys 2021.  
-<!--   <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:WFjgfortG8AJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-kU9c:AAGBfm0AAAAAYo6iS9eAeTQL8qk9TmnIFO8R9FWAZJ32&scisig=AAGBfm0AAAAAYo6iS1D2ISddSbppjC-PaLpa88LI661V&scisf=4&ct=citation&cd=-1&hl=en">[BibTeX]</a> -->
-  <a href="https://eprints.gla.ac.uk/246701/2/246701.pdf">[PDF]</a>
+  <b>Xiao Wang</b>, Craig Macdonald, Iadh Ounis. &ldquo;Improving zero-shot retrieval using dense external expansion.&rdquo; Information Processing & Management.  
 
-
-<h1 style="margin-bottom:0px;padding-top:20px;">2020</h1>
-
-  <!-- Item: wu2020hybrid -->
+  <!-- Item: dc -->
   <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;A hybrid conditional variational autoencoder model for personalised top-n recommendation.&rdquo; ICTIR 2020.
-<!--   <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:wGZEuZSH7McJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-m_gE:AAGBfm0AAAAAYo6g5gGthUp_KWgIzAQiGG2AweHABpdc&scisig=AAGBfm0AAAAAYo6g5oLKMzLM_9zU8qpGVcllHw1oRpfJ&scisf=4&ct=citation&cd=-1&hl=en">[BibTeX]</a> -->
-  <a href="https://eprints.gla.ac.uk/219367/1/219367.pdf">[PDF]</a>
-
+  <b>Xiao Wang</b>. &ldquo;Neural Pseudo-Relevance Feedback Models for Sparse and Dense Retrieval.&rdquo; SIGIR 2022.  
+    
+   <!-- Item: cwprf-->
+  <li >
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo;An Inspection of the Reproducibility and Replicability of TCT-ColBERT.&rdquo; SIGIR 2022.
     
     
+    
+    
+    
+
+<h1 style="margin-bottom:0px;padding-top:20px;">2021</h1>
+
+  <!-- Item: ictir -->
+  <li >
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;Pseudo-relevance feedback for multiple representation dense retrieval.&rdquo; ICTIR 2021.
+
+  <!-- Item: trec2021 -->
+  <li >
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;University of Glasgow Terrier Team at the TREC 2021 Deep Learning Track.&rdquo;  TREC 2021 .
+
+
+
+<h1 style="margin-bottom:0px;padding-top:20px;">2020 and before</h1>
+
+  <!-- Item: ictir -->
+  <li >
+  <b>Xiao Wang</b>, Craig Macdonald,Iadh Ounis. &ldquo;Deep reinforced query reformulation for information retrieval.&rdquo; SIGIR DR4IR Workshop 2020.
+
+  <!-- Item: trec2021 -->
+  <li >
+  <b>Xiao Wang</b>, Yaxiong Wu, Xi Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;University of Glasgow Terrier Team at the TREC 2020 Deep Learning Track.&rdquo;  TREC 2020 .
+ 
+  
+  <!-- Item: ATE -->
+  <li >
+  Qunxiong Zhu, <b>Xiao Wang</b>, Yanlin He, Yuan Xu. &ldquo;An improved extreme learning machine integrated with nonlinear principal components and its application to modeling complex chemical processes. &rdquo; Applied Thermal Engineering.
+    
+  <!-- Item: control -->
+  <li >
+   Yanlin He, <b>Xiao Wang</b>, Qunxiong Zhu. &ldquo;Modeling of acetic acid content in purified terephthalic acid solvent column using principal component analysis based improved extreme learning machine&ldquo; Control Theory & Applications.
+   
 
 
 <!-- ---
