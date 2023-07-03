@@ -23,7 +23,7 @@ permalink: /publications/
 
   <!-- Item: colstar -->
   <li >
-  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*.&rdquo;(Full Paper) ACM SIGIR 2023. 
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*.&rdquo; (Full Paper) ACM SIGIR 2023. 
 
   <!-- Item: tweb -->
   <li >
@@ -68,7 +68,7 @@ permalink: /publications/
     
   <!-- Item: trec2021 -->
   <li >
-  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;University of Glasgow Terrier Team at the TREC 2021 Deep Learning Track.&rdquo;  TREC 2021 .
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; University of Glasgow Terrier Team at the TREC 2021 Deep Learning Track.&rdquo; TREC 2021 .
   <a href="https://trec.nist.gov/pubs/trec30/papers/uogTr-DL.pdf">[PDF]</a>
 
 
@@ -82,7 +82,7 @@ permalink: /publications/
     
   <!-- Item: trec2021 -->
   <li >
-  <b>Xiao Wang</b>, Yaxiong Wu, Xi Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;University of Glasgow Terrier Team at the TREC 2020 Deep Learning Track.&rdquo; TREC 2020 .
+  <b>Xiao Wang</b>, Yaxiong Wu, Xi Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; University of Glasgow Terrier Team at the TREC 2020 Deep Learning Track.&rdquo; TREC 2020 .
   <a href="https://trec.nist.gov/pubs/trec30/papers/uogTr-DL.pdf">[PDF]</a>
   
     
