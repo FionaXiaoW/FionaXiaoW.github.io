@@ -18,7 +18,7 @@ permalink: /publications/
   <!-- Item: cwprf-->
   <li >
   <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Effective Contrastive Weighting for Dense Query Expansion.&rdquo; (Full Paper) ACL - Main Conference, 2023. 
-  <a href="https://github.com/FionaXiaoW/FionaXiaoW.github.io/tree/master/files/ACL2023.pdf">[PDF]</a>
+  <a href="https://drive.google.com/file/d/1i8vin0ikNIjtjiyJYAgSyXlYQkOZ7z82/view?usp=sharing">[PDF]</a>
   
 
   <!-- Item: colstar -->
