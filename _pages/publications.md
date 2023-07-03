@@ -9,6 +9,11 @@ permalink: /publications/
 <!-- You can also find my papers on <u><a href="https://scholar.google.com/citations?user=SMuF74EwRLQC&hl=en">my Google Scholar profile</a>.</u> -->
 
 <h1 style="margin-bottom:0px;padding-top:20px;">2023</h1>
+ 
+  <!-- Item: genqr-->
+  <li >
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Generative Query Reformulation for Effective Adhoc Search.&rdquo; ACM SIGIR GenIR Workshop 2023. 
+  
 
   <!-- Item: cwprf-->
   <li >
@@ -72,7 +77,7 @@ permalink: /publications/
 
   <!-- Item: ictir -->
   <li >
-  <b>Xiao Wang</b>, Craig Macdonald,Iadh Ounis. &ldquo;Deep reinforced query reformulation for information retrieval.&rdquo; SIGIR DR4IR Workshop 2020.
+  <b>Xiao Wang</b>, Craig Macdonald,Iadh Ounis. &ldquo;Deep reinforced query reformulation for information retrieval.&rdquo; ACM SIGIR DR4IR Workshop 2020.
   <a href="https://arxiv.org/pdf/2007.07987.pdf">[PDF]</a>
     
     
