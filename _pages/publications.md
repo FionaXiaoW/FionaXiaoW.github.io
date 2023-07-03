@@ -13,6 +13,7 @@ permalink: /publications/
   <!-- Item: cwprf-->
   <li >
   <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Effective Contrastive Weighting for Dense Query Expansion.&rdquo; ACL - Main Conference, 2023. 
+  
 
   <!-- Item: colstar -->
   <li >
@@ -21,7 +22,7 @@ permalink: /publications/
   <!-- Item: tweb -->
   <li >
   <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; ColBERT-PRF: Semantic pseudo-relevance feedback for dense passage and document retrieval.&rdquo; ACM Transactions on the Web. 
- <a href=https://dl.acm.org/doi/pdf/10.1145/3572405>[PDF]</a>
+  <a href=https://dl.acm.org/doi/pdf/10.1145/3572405>[PDF]</a>
     
   <!-- Item: trec22 -->
   <li >
