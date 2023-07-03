@@ -12,18 +12,18 @@ permalink: /publications/
  
   <!-- Item: genqr-->
   <li >
-  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Generative Query Reformulation for Effective Adhoc Search.&rdquo; ACM SIGIR GenIR Workshop 2023. 
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Generative Query Reformulation for Effective Adhoc Search.&rdquo; (Full Paper) ACM SIGIR GenIR Workshop 2023. 
   
 
   <!-- Item: cwprf-->
   <li >
-  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Effective Contrastive Weighting for Dense Query Expansion.&rdquo; ACL - Main Conference, 2023. 
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Effective Contrastive Weighting for Dense Query Expansion.&rdquo; (Full Paper) ACL - Main Conference, 2023. 
   <a href="https://github.com/FionaXiaoW/FionaXiaoW.github.io/tree/master/files/ACL2023.pdf">[PDF]</a>
   
 
   <!-- Item: colstar -->
   <li >
-  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*.&rdquo; SIGIR 2023. 
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*.&rdquo;(Full Paper) ACM SIGIR 2023. 
 
   <!-- Item: tweb -->
   <li >
@@ -46,13 +46,13 @@ permalink: /publications/
     
   <!-- Item: dc -->
   <li >
-  <b>Xiao Wang</b>. &ldquo;Neural Pseudo-Relevance Feedback Models for Sparse and Dense Retrieval.&rdquo; SIGIR 2022.  
+  <b>Xiao Wang</b>. &ldquo;Neural Pseudo-Relevance Feedback Models for Sparse and Dense Retrieval.&rdquo; (Full Paper) ACM SIGIR 2022.  
   <a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3531685">[PDF]</a>
     
     
    <!-- Item: cwprf-->
   <li >
-  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo;An Inspection of the Reproducibility and Replicability of TCT-ColBERT.&rdquo; SIGIR 2022.
+  <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo;An Inspection of the Reproducibility and Replicability of TCT-ColBERT.&rdquo; (Full Paper) ACM SIGIR 2022.
   <a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3531721">[PDF]</a>
     
     
@@ -63,7 +63,7 @@ permalink: /publications/
 
   <!-- Item: ictir -->
   <li >
-  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;Pseudo-relevance feedback for multiple representation dense retrieval.&rdquo; ICTIR 2021.
+  <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;Pseudo-relevance feedback for multiple representation dense retrieval.&rdquo; (Full Paper) ACM ICTIR 2021.
   <a href="https://dl.acm.org/doi/pdf/10.1145/3471158.3472250">[PDF]</a>
     
     
@@ -77,13 +77,13 @@ permalink: /publications/
 
   <!-- Item: ictir -->
   <li >
-  <b>Xiao Wang</b>, Craig Macdonald,Iadh Ounis. &ldquo;Deep reinforced query reformulation for information retrieval.&rdquo; ACM SIGIR DR4IR Workshop 2020.
+  <b>Xiao Wang</b>, Craig Macdonald,Iadh Ounis. &ldquo;Deep reinforced query reformulation for information retrieval.&rdquo; (Full Paper) ACM SIGIR DR4IR Workshop 2020.
   <a href="https://arxiv.org/pdf/2007.07987.pdf">[PDF]</a>
     
     
   <!-- Item: trec2021 -->
   <li >
-  <b>Xiao Wang</b>, Yaxiong Wu, Xi Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;University of Glasgow Terrier Team at the TREC 2020 Deep Learning Track.&rdquo;  TREC 2020 .
+  <b>Xiao Wang</b>, Yaxiong Wu, Xi Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo;University of Glasgow Terrier Team at the TREC 2020 Deep Learning Track.&rdquo; TREC 2020 .
   <a href="https://trec.nist.gov/pubs/trec30/papers/uogTr-DL.pdf">[PDF]</a>
   
     
