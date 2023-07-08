@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 I am currently a 4th-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
-My recent research interest is mainly about **Information Retrieval**, **Deep Leaning** and **Natural Language Processing**. 
+My recent research interest is mainly about **Information Retrieval**, **Deep Leaning** and **Natural Language Processing**. My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. 
 
-My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. I am currently open to new opportunities and would welcome the chance to discuss potential job opportunities. 
 
 
 
