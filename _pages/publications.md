@@ -13,17 +13,19 @@ permalink: /publications/
   <!-- Item: genqr-->
   <li >
   <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Generative Query Reformulation for Effective Adhoc Search.&rdquo; (Full Paper) ACM SIGIR GenIR Workshop 2023. 
+  <a href="https://arxiv.org/pdf/2308.00415.pdf">[PDF]</a>
   
 
   <!-- Item: cwprf-->
   <li >
   <b>Xiao Wang</b>, Sean MacAvaney, Craig Macdonald, Iadh Ounis. &ldquo; Effective Contrastive Weighting for Dense Query Expansion.&rdquo; (Full Paper) ACL - Main Conference, 2023. 
-  <a href="https://drive.google.com/file/d/1i8vin0ikNIjtjiyJYAgSyXlYQkOZ7z82/view?usp=sharing">[PDF]</a>
+  <a href="https://aclanthology.org/2023.acl-long.710/">[PDF]</a>
   
 
   <!-- Item: colstar -->
   <li >
   <b>Xiao Wang</b>, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. &ldquo; Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to Col*.&rdquo; (Full Paper) ACM SIGIR 2023. 
+  <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591916">[PDF]</a>
 
   <!-- Item: tweb -->
   <li >
