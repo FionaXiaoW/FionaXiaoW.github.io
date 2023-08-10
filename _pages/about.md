@@ -43,6 +43,12 @@ Education
 
 Activities
 ------
+- [July 2023] SIGIR 2023 GenIR Workshop - Virtual Attendance (Taiwan Entry Permit Issue) *Generative Query Reformulation for Effective Adhoc Search*
+  
+- [July 2023] SIGIR 2023 - Virtual Attendance (Taiwan Entry Permit Issue) *Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to ColSTAR*
+  
+- [July 2023] ACL 2023 - Virtual Attendance - (Visa Issue) *Effective Contrastive Weighting for Dense Query Expansion*
+  
 - [February 2023] Barclays Bank ‑ Poster Presentation (In‑person)
   *Pseudo‑Relevance Feedback for Multiple Representation Dense Retrieval*
 
