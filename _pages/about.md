@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
-My recent research interest focuses on **Information Retrieval**, **Deep Learning**, **Reinforcement Learning** and **Natural Language Processing**. My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. 
+I did my PhD at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
+My research focuses on **Information Retrieval**, **Deep Learning**, **Reinforcement Learning** and **Natural Language Processing**. My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. 
 
 
 
@@ -41,8 +41,12 @@ Education
 
 [30/06/2020] 'A Hybrid Conditional Variational Autoencoder Model for Personalised Top-N Recommendation' - full paper accepted at [ICTIR 2020](https://ictir2020.org/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh). -->
 
-Activities
+News
 ------
+- [November 24, 2023] I have successfully defended my thesis in the viva.
+- 
+- [November 2023] I was employed as the volunteer of SIGIR2023-AP conference.
+  
 - [July 2023] SIGIR 2023 GenIR Workshop - Virtual Attendance (Taiwan Entry Permit Issue) *Generative Query Reformulation for Effective Adhoc Search*
   
 - [July 2023] SIGIR 2023 - Virtual Attendance (Taiwan Entry Permit Issue) *Reproducibility, Replicability, and Insights into Dense Multi-Representation Retrieval Models: from ColBERT to ColSTAR*
