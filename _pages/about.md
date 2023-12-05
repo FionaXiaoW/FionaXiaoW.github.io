@@ -44,8 +44,8 @@ Education
 News
 ------
 - [November 24, 2023] I have successfully defended my thesis in the viva.
-- 
-- [November 2023] I was employed as the volunteer of SIGIR2023-AP conference.
+
+- [November 2023] I was employed as a volunteer at the SIGIR2023-AP conference.
   
 - [July 2023] SIGIR 2023 GenIR Workshop - Virtual Attendance (Taiwan Entry Permit Issue) *Generative Query Reformulation for Effective Adhoc Search*
   
