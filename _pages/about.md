@@ -11,7 +11,7 @@ redirect_from:
 I did my PhD at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). 
 My research focuses on **Information Retrieval**, **Deep Learning**, **Reinforcement Learning** and **Natural Language Processing**. My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. 
 
-The preprint of my PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://drive.google.com/file/d/1IM3nKaXsNQPRtQIISli4bGVouY3_snA3/view).
+My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here]([https://theses.gla.ac.uk/84093/]).
 
 
 
