@@ -18,10 +18,10 @@ My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information R
 
 Education
 ------
-[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
+[2019-now]  [University of Glasgow](https://www.gla.ac.uk/), Glasgow, UK
 - PhD in Computing Science (Research), expected to graduate before 09/2023
 
-[2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
+[2018-2019] [University of Glasgow](https://www.gla.ac.uk/), Glasgow, UK
 - MSc in Data Science
 
 <!-- [2013-2016] [Beijing University of Chemical Technology](https://ev.buaa.edu.cn/) (BUAA, [Project 211](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
