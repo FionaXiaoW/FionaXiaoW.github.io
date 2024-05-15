@@ -13,6 +13,8 @@ My research focuses on **Information Retrieval**, **Deep Learning**, **Reinforce
 
 My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf).
 
+My future research interest lies in: Retrieval Augmented Generation, Generative Information Retrieval etcs. 
+
 
 
 
