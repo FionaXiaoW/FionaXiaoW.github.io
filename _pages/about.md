@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been hired as an assistant professor/lecturer at the School of Information Technology and Management at the University of International Business and Economics (UIBE). Before that, I did my PhD at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). 
+I have been hired as an assistant professor/lecturer in the School of Information Technology and Management at the University of International Business and Economics (UIBE). Before that, I did my PhD at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). 
 
 My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf).
 
