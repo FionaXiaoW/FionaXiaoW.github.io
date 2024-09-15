@@ -12,7 +12,7 @@ I have been hired as an assistant professor/lecturer in the School of Informatio
 
 My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf).
 
-My future research focuses on **Information Retrieval**, **Retrieval Augmented Generation**, and **Generative Information Retrieval** etc. 
+My future research focuses on **Retrieval Augmented Generation**, and **Generative Information Retrieval** etc. 
 
 I am looking for **self-motivated** master students. If you are interested in information retrieval, natural language processing, and generative AI related fields, please drop me your CV. 
 
