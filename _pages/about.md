@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I did my PhD at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). 
-My research focuses on **Information Retrieval**, **Deep Learning**, **Reinforcement Learning** and **Natural Language Processing**. My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. 
+I have been hired as an assistant professor/lecturer at the School of Information Technology and Management at the University of International Business and Economics (UIBE). Before that, I did my PhD at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). 
 
-My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf).
+My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, and **semantic search**. My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf).
 
-My future research interest lies in: Retrieval Augmented Generation, Generative Information Retrieval etc. 
+My future research focuses on **Information Retrieval**, **Retrieval Augmented Generation**, and **Generative Information Retrieval** etc. 
+
+I am looking for **self-motivated** master students. If you are interested in information retrieval, natural language processing, and generative AI related fields, please drop me your CV. 
 
 
 
@@ -35,19 +36,13 @@ My future research interest lies in: Retrieval Augmented Generation, Generative 
 - Bachelor of Management in Business Administration (minor) -->
 
 
-<!-- News
-------
-[28/06/2022] 'Multi-Modal Dialog State Tracking for Interactive Fashion Recommendation' - full paper accepted at [RecSys 2022](https://recsys.acm.org/recsys22/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
 
-[28/04/2022] 'Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback' - full paper accepted at [CUI 2022](https://www.conversationaluserinterfaces.org/2022/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
-
-[07/07/2021] 'Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation' - full paper accepted at [RecSys 2021](https://recsys.acm.org/recsys21/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
-
-[30/06/2020] 'A Hybrid Conditional Variational Autoencoder Model for Personalised Top-N Recommendation' - full paper accepted at [ICTIR 2020](https://ictir2020.org/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh). -->
 
 News
 ------
-- [November 24, 2023] I have successfully defended my thesis in the viva.
+- [August 15, 2024] I have been employed as an Assistant Professor at UIBE.
+  
+- [June 25, 2024] I have officially obtained my PhD certificate.
 
 - [November 2023] I was employed as a volunteer at the SIGIR2023-AP conference.
   
