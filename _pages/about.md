@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been hired as an assistant professor/lecturer in the School of Information Technology and Management at the University of International Business and Economics (UIBE). Before that, I have got my PhD and Master degree (Data Science) at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). In addition, I got my Bachelor's degree (Automatic Control) and Master's degree (Control Theory and Engineering) from the Beijing University of Chemistry and Technology, under the supervision of Professor [Qunxiong Zhu](https://www.semanticscholar.org/author/Qunxiong-Zhu/2904204). 
+I have been hired as an assistant professor/lecturer in the School of Information Technology and Management at the University of International Business and Economics ([UIBE](https://english.uibe.edu.cn/)). Before that, I have got my PhD and Master degree (Data Science) at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Professor [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/). In addition, I got my Bachelor's degree (Automatic Control) and Master's degree (Control Theory and Engineering) from the Beijing University of Chemistry and Technology ([BUCT](https://enjwc.buct.edu.cn/main.htm)), under the supervision of Professor [Qunxiong Zhu](https://www.semanticscholar.org/author/Qunxiong-Zhu/2904204). 
 
 My expertise lies in developing innovative solutions for **query understanding**, **document ranking**, **natural language processing**， **reinforcement learning**, and **semantic search**, etc. My PhD thesis, titled "Neural Pseudo-Relevance Feedback Models for Information Retrieval", can be found [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf).
 
@@ -86,5 +86,5 @@ TREC DL 2022 *
 
 Useful Links
 ------
-[@UIBE](https://english.uibe.edu.cn/)
+[@UIBE](https://english.uibe.edu.cn/), [BUCT](https://enjwc.buct.edu.cn/main.htm), 
 [@Terrier Team](https://twitter.com/terrierteam), [@Glasgow IR Group](https://twitter.com/IR_Glasgow)
