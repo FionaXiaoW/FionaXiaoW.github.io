@@ -86,4 +86,5 @@ TREC DL 2022 *
 
 Useful Links
 ------
+[@UIBE](https://english.uibe.edu.cn/)
 [@Terrier Team](https://twitter.com/terrierteam), [@Glasgow IR Group](https://twitter.com/IR_Glasgow)
